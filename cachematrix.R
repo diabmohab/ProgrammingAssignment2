@@ -1,9 +1,9 @@
-## Caching Inverse of a Matrix
-## Creates a matrix that can cache it's inverse
+# Caching Inverse of a Matrix
+# Creates a matrix that can cache it's inverse
 
 
-## makeCacheMatrix function takes any sqaure matrix (invertible matrix)
-## as an argument and calculates inverse of square matrix using solve function
+# makeCacheMatrix function takes any sqaure matrix (invertible matrix)
+# as an argument and calculates inverse of square matrix using solve function
 
 makeCacheMatrix <- function(x = matrix()) {
         matrixInverseCopy<-NULL      # Initialized matrixInverseCopy with NULL
